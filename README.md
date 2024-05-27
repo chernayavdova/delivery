@@ -28,3 +28,15 @@ Utilizei as fomulas IF, SUMX, FORMAT e HOUR.
 
    - Criei essa coluna com a soma das colunas de entrega e comissão para ter uma ideia do custo.
 ![Captura de tela 2024-05-25 203215](https://github.com/chernayavdova/delivery/assets/86575159/2590e97c-859e-4f41-8280-b907cfdbde58)
+
+   ##### Dashboard
+   ![Captura de tela 2024-05-27 172550](https://github.com/chernayavdova/delivery/assets/86575159/079e715e-cc7b-4802-941e-a62885797472)
+
+   - Podemos ver que de 5 ás 10 da manhã mantemos um nível similar de pedidos por hora, e temos picos às 17h da tarde e às 19h da noite .
+   - O cupom mais usado é o de 10% e a promoção de 50 off
+   - Os dias com mais pedidos são terça e sábado e os com menos são sexta e domingo. Isso pode acontecer pela distribuião de cupom, talvez eles sejam gerados nesses dias.
+
+   #### Possíveis soluções
+
+   - Vimos que, apesar de satisfátoria, as vendas em determinados dias e horários, principalmente no almoço, são bem menores, podemos contratar soluções de marketing, desconto por indicação de amigo, fidelizar no restaurante e ganhar cupons a partir de um certo numero de pedidos em um determinado período de tempo.
+
