@@ -3,7 +3,7 @@
 Análise em Python e Power Bi de um dataset de delivery de comidas.
 
 
-Como o nome já diz, nessa analise trago o custo e rentabilidade de um delivery.
+Como o nome já diz, nessa analise trago o custo e rentabilidade.
 
 ### Metodologia
 
