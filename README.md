@@ -9,7 +9,7 @@ Como o nome já diz, nessa analise trago o custo e rentabilidade de um delivery.
 
 #### Python 
 
-Utilizei Python para ter uma visão geral do dataset,  procurar valores nulos, outliers e para converter a moeda, como o dataset é de um delivery de Nova Dehli, a moeda usada foi a indiana, então utilizei python para converter para dólar, por isso os valores podem parecer abaixo.
+Utilizei Python para ter uma visão geral do dataset,  procurar valores nulos, outliers e para converter a moeda, como o dataset é de um delivery de Nova Dehli, a moeda usada foi a indiana, então, converti para dólar, por isso os valores podem parecer abaixo.
 Criei mais três colunas com a conversão da moeda
 
 
